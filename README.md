@@ -61,4 +61,5 @@ claim_callback_handler="org.wso2.custom.claim.PermissionClaimHandler"
     ```
 
 **Credits**
+
 @nilasini and @Abilashini
